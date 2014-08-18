@@ -1,0 +1,4 @@
+name: AnotherMobPlugin
+main: de.myphate.anothermobplugin.AMP
+depend: [ Bandersnatch , WorldGuard, WGCustomFlags ]
+version: 0.6
